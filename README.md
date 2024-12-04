@@ -3,7 +3,7 @@
 MY WORK COLLECTION
 | CHAPTER | NAME                                            | WORKSHOP | LECTURE | DOCUMENT |
 | :---: |:---:                                              | :-----:   |  :---:  |   :---:  |
-| 1     |  xPore: An AI-Powered App for Bioinformaticians   | [![Gaussian Mixure Model]([https://colab.research.google.com/drive/<notebook-id>](https://github.com/pjngth998/PMU-B-PersonalAI/blob/main/GMM_S0504.ipynb))          |         |          |
+| 1     |  xPore: An AI-Powered App for Bioinformaticians   | ![Gaussian Mixure Model]([https://colab.research.google.com/drive/<notebook-id>](https://github.com/pjngth998/PMU-B-PersonalAI/blob/main/GMM_S0504.ipynb))          |         |          |
 | 2     |  Learning from Biosignal                          |           |         |          |
 | 3     |  AI for detecting code plagiarism                 |           |         |          |
 | 4     |  Mental disorder detection from social media data |           |         |          |
