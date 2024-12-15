@@ -8,4 +8,12 @@ MY WORK COLLECTION
 | 3     |  AI for detecting code plagiarism                 |     [Code Clone Detection](https://github.com/pjngth998/PMU-B-PersonalAI/blob/main/CodeCloneDetection_S0504.ipynb)     |         
 | 4     |  Mental disorder detection from social media data |  [NLP](https://github.com/pjngth998/PMU-B-PersonalAI/blob/main/NLP_S0504.ipynb)         |        
 | 5     |  BiTNet: AI for diagnosing ultrasound image       |  [Image Classificaton with EfficientNetB5](https://github.com/pjngth998/PMU-B-PersonalAI/blob/main/Image_classification_EfficientNetB5_S0504.ipynb)     |        
-| 6     |  AI for arresting criminals                       |      [Object Detection](https://github.com/pjngth998/PMU-B-PersonalAI/blob/main/ObjectDetectionYOLOv8_S0504.ipynb)       |       
+| 6     |  AI for arresting criminals                       |      [Object Detection](https://github.com/pjngth998/PMU-B-PersonalAI/blob/main/ObjectDetectionYOLOv8_S0504.ipynb)       |    
+
+
+
+MY VIDEO
+
+
+
+[![MY VIDEO](https://img.youtube.com/vi/pJzxAJddTb0/0.jpg)](https://youtu.be/pJzxAJddTb0)
